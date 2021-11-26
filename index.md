@@ -1,5 +1,7 @@
 ---
-title: "Welcome to my blog"
+title: "Bienvenido a mi Blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+GitHub es una forja para alojar proyectos utilizando el sistema de control de versiones Git. 
+Se utiliza principalmente para la creación de código fuente de programas de ordenador. 
+El software que opera GitHub fue escrito en Ruby on Rails. Desde enero de 2010, GitHub opera bajo el nombre de GitHub, Inc.

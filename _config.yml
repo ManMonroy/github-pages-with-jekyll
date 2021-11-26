@@ -1,10 +1,11 @@
-title: Your awesome title
-author: GitHub User
+theme: minima
+title: Curso 2 de GitHub
+author: Manuel Monroy
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+GitHub es una forja para alojar proyectos utilizando el sistema de control de versiones Git. 
+Se utiliza principalmente para la creación de código fuente de programas de ordenador. 
+El software que opera GitHub fue escrito en Ruby on Rails. Desde enero de 2010, GitHub opera bajo el nombre de GitHub, Inc.
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
